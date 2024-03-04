@@ -804,3 +804,17 @@ iframe{
     min-height: 250px;
 }
 
+
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 24px;
+    max-width: 968px;
+}
+
+#localization{
+    width: 100%;
+}
