@@ -69,4 +69,4 @@ function fecharmodal() {
     var fecha = document.getElementById('modalTipe2')
     fecha.style.display = 'none';
 }
-/*
+*/
