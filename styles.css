@@ -554,7 +554,8 @@ main>section>a:hover{
 
 .contato{
     min-height: 400px;
-    width: 100%;
+    max-width: 968px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
 }
@@ -801,7 +802,7 @@ footer span{
     border-bottom: 1px solid var(--musgo2);
 }
 
-iframe{
+#video{
     min-width: 300px;
     max-width: 300px;
     max-height: 250px;
